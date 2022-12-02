@@ -3,4 +3,7 @@ Documentation for Python tutorial with Flet framework.
 
 # Tutorial
 
-<img width="1440" alt="Screenshot 2022-12-02 at 3 04 43 PM" src="https://user-images.githubusercontent.com/84860195/205303016-2ee66f60-fb90-40d2-bbba-a74762b4a3cf.png">
+YouTube Tutorial: https://youtu.be/PgpnJbeuVGs
+
+<img width="1419" alt="final" src="https://user-images.githubusercontent.com/84860195/205319982-c1650400-e7a5-4f03-abce-463747b269d9.png">
+
